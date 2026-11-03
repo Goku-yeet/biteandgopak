@@ -1,0 +1,11 @@
+{
+  "name": "Bite & Go Express",
+  "description": "Premium fast-food delivery platform featuring real-time menu customization, live order tracking with notifications, EasyPaisa payment verification, and sales performance analytics.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
